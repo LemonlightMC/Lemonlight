@@ -25,8 +25,13 @@ If applicable, add screenshots to help explain your problem.
 
 **Device (please complete the following information):**
  - Device: [e.g. Handy, PC]
- - MC Version: [e.g. 22]
-- With Mods: [e.g. Yes, No]
+ - MC Version: [e.g. 1.21.5]
+ - With Mods: [e.g. Yes, No]
+
+**Server (please complete the following information):**
+  - Current MC Version: [e.g. 1.21.5]
+  - Current Update Version: [e.g. V1.1]
+  - Date: [e.g. 1.6.2025]
 
 **Additional context**
 Add any other context about the problem here.
