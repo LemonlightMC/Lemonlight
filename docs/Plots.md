@@ -2,15 +2,45 @@
 Plots sind abgegrenzte Bereiche, in denen du ungestört bauen kannst. Dein Grundstück ist vor Zerstörung und Diebstahl durch andere Spieler geschützt – solange du ihnen nicht die nötigen Rechte gibst.
 
 
-## **📐 Besitzrechte**
+## **📐 Beanspruchung**
+- **/p auto**  
+    Teleportiert dich zu einem freien Plot und beansprucht es direkt (Kosten: **5.000 Coins** pro Plot).
+- **/p claim**  
+    Kaufe das Plot, auf dem du stehst, wenn es noch frei ist (Kosten: **5.000 Coins** pro Plot).
+
+## **🛠️ Spieler-Verwaltung**
 - **/p add \[Spieler\]**  
     Fügt einen Spieler als Mitglied hinzu. Dieser kann **nur interagieren, wenn du online bist**.
+- **/p remove [Spieler]**  
+    Entfernt einen Spieler als Mitglied.
 - **/p trust \[Spieler\]**  
     Fügt einen Spieler als vertrauenswürdiges Mitglied hinzu. Dieser kann **immer interagieren, auch wenn du offline bist**.
-- **/p auto**  
-    Teleportiere dich zu einem freien Plot und claim es direkt (Kosten: **5.000 Coins**).
-- **/p claim**  
-    Kaufe das Plot, auf dem du stehst, wenn es noch frei ist (Kosten: **5.000 Coins**).
+- **/p untrust [Spieler]**  
+    Entfernt einen Spieler als vertrauenswürdiges Mitglied.
+- **/p setowner [Spieler]**  
+    Übertrage das Eigentum an deinem Plot an einen anderen Spieler.
+- **/p deny [Spieler]**  
+    Verbietet einem Spieler den Zugang zu deinem Plot.
+- **/p undeny [Spieler]**  
+    Gibt einem Spieler wieder den Zugang zu deinem Plot.
+- **/p kick [Spieler]**  
+    Kickt einen Spieler von deinem Plot.
+
+## **🛠️ Verwaltung**
+- **/p info**  
+    Zeigt dir Infos zum Plot, auf dem du stehst.
+- **/p v \[Spieler\] \[Plot Nummer\]**
+	Teleportiere dich zum Plot eines anderen Spielers.
+- **/p h**
+    Teleportier dich zu deinen Homepunk in der Plotwelt.
+- **/p clear**  
+    Leert das Plot komplett. Achtung: Alle Items gehen verloren!
+- **/p delete**  
+    Löscht das Plot. Du bist danach nicht mehr der Besitzer.
+- **/p middle**  
+    Teleportiere dich zum Mittelpunkt deines Plots.
+- **/p sethome**
+    Setzt deinen Homepunkt des Plots an die Stelle, an der du stehst. Dies ist Zeitgleich auch der Spawnpunkt für jeden der sich zu diesem Plot teleportiert. 
 
 
 ## **💰 Plots verkaufen & kaufen**
@@ -18,37 +48,10 @@ Plots sind abgegrenzte Bereiche, in denen du ungestört bauen kannst. Dein Grund
     Setzt den Verkaufspreis für dein Plot. Andere Spieler können es dann kaufen.
 - **/p buy**  
     Kaufe das Plot, auf dem du stehst, wenn es zum Verkauf steht.
-
-
-## **🛠️ Plot-Verwaltung & Teleport**
-- **/p clear**  
-    Leert das Plot komplett. Achtung: Alle Items gehen verloren!
-- **/p delete**  
-    Löscht das Plot. Du bist danach nicht mehr der Besitzer.
-- **/p ban \[Spieler\]**  
-    Verbietet einem Spieler den Zugang zu deinem Plot.
-- **/p remove \[Spieler\]**  
-    Entfernt die Berechtigung eines Spielers (Vertraute oder Verbotene).
-- **/p info**  
-    Zeigt dir Infos zum Plot, auf dem du stehst.
-- **/p v \[Spieler\] \[Plot Nummer\]**
-- Teleportiere dich zum Plot eines anderen Spielers.
-- **/p middle**  
-    Teleportiere dich zum Mittelpunkt deines Plots.
-- **/p setowner \[Spieler\]**  
-    Übertrage das Eigentum an deinem Plot an einen anderen Spieler.
-- **/p kick \[Spieler\]**  
-    Kickt einen Spieler von deinem Plot.
-- **/p sethome**
-    Setzt deinen Homepunkt des Plots an die Stelle, an der du stehst. Dies ist Zeitgleich auch der Spawnpunkt für jeden der sich zu diesem Plot teleportiert. 
-- **/p h**
-    Teleportier dich zu deinen Homepunk in der Plotwelt.
-
-
 ## **🚀 Plotbefehle ab bestimmten Rängen**
 - **/plot merge**  
     Verbinde mehrere benachbarte Plots zu einem großen Plot.
-  - Kosten: **50.000 Coins pro Verbindung**
+  - Kosten: **40.000 Coins pro Verbindung**
   - Verfügbar ab Rang: **Arbeiter**
 - **/p setbiom \[Biom\]**  
     Ändere das Biom deines Plots.

@@ -1,34 +1,30 @@
 # **👷 Jobs auf Lemonlight**
 
-Das Jobsystem ist eine der **wichtigsten Methoden**, um auf Lemonlight **Coins zu verdienen**. Durch normales Spielen – z. B. Bäume fällen, Steine abbauen oder Mobs besiegen – bekommst du automatisch Belohnungen. Je aktiver du bist, desto mehr verdienst du.
+Mithilfe dem Jobsystem kann sehr einfach Coins durch normales Spielen verdienen  – z. B. durch Bäume fällen, Steine abbauen oder Mobs besiegen. Man bekommst automatisch Belohnungen, die nach der Schwierigkeit der Tätigkeit und seinem Job Level entsprechend skaliert werden. Also je aktiver man ist, desto mehr verdienst man.
 
+Sobald du einem Job beitrittst, wirst du **für typische Aktionen innerhalb dieses Berufs automatisch mit Coins belohnt**.
+### **Jobs:**
+- **Holzfäller:** Fällen von Bäumen und platzieren von neuen Bäumen
+- **Miner:** Abbauen von Erzen und spezieller wertvoller Blöcken
+- **Hunter:** Besiegen von Monstern und Spielern
+- **Farmer:** Ernten von Feldfrüchten, Pflanzen und Nährstoffen sowie Breeden von Tieren
+- **Fischer:** Fischen von wertvollen Dingen
+- **Architekt:** Bauen von eigenen Sachen auf dem Plot, für den Server
+- **Economist:** Handeln mit anderen Spielern, Verkauf/Ankauf beim AdminShop und Auktionen
+- **Enchanter:** Enchanten von Rüstungen und Waffen
+- **Brewer:** Brauen von Tränken
 
-## **🛠️ Wie funktionieren Jobs?**
-Sobald du einem Job beitrittst, wirst du **für typische Aktionen innerhalb dieses Berufs automatisch mit Coins belohnt** – ganz nebenbei, einfach durchs Spielen.
+### **📈 Job-Level**
+Jeder Job hat ein eigenes Levelsystem:
 
-Hier ein paar Beispiele:
-- Als **Holzfäller** verdienst du Coins für das **Fällen von Bäumen**.
-- Als **Miner** bekommst du Belohnungen für das **Abbauen von Erzen** und bestimmten speziellen Blöcken wie **Obsidian**.
-- Als **Hunter** wirst du fürs **Besiegen von Monstern** bezahlt.
-- Als **Farmer** verdienst du durch das **Ernten von Feldfrüchten** oder anderen Pflanzen.
+- Man steigst durch Aktivität im Job automatisch im Level auf.
+- Mit jedem Level erhöht sich die Anzahl an Coins, die man bekommt
+- Aktuelles Maximal-Level: **100**
 
+💡 So wird man im Laufe der Zeit effizienter und bekommst mehr Coins für dieselbe Arbeit! Wichtig dabei ist jedoch, das unterschiedliche Aktionen, unterschiedlich viele Coins geben können!
 
-## **📈 Job-Level & Verdienststeigerung**
-Jeder Job hat ein **eigenes Levelsystem**:
-
-- **Du steigst durch Aktivität im Job automatisch im Level auf.**
-- **Alle 10 Level erhöht sich dein Verdienst**, also z. B. bei Level 10, 20, 30 usw.
-- Aktuelles Maximal-Level je Job: **150**
-
-💡 So wirst du im Laufe der Zeit effizienter und bekommst mehr Coins für dieselbe Arbeit!
-
-
-## **⚖️ Balancing & Fairness**
-Jeder Job hat **eigene Auszahlungsraten**, um ihn fair gegenüber anderen Jobs zu halten.
-
-
-## **🔓 Wie viele Jobs kann ich gleichzeitig haben?**
-Man kann zu Beginn maximal einen Job ausüben. Ab Konstrukteur ist das Ausüben von 2 Jobs parallel möglich und mit dem Legende Rang erhöht sich dies auf 3. Ein Wechseln zwischen den Jobs ist immer möglich, indem man einen Job einfach verlässt. Keine Sorge dein Fortschritt bleibt dabei erhalten.
+### **🔓 Wie viele Jobs kann ich gleichzeitig haben?**
+Man kann zu Beginn maximal einen Job ausüben. **Ab Konstrukteur** ist das Ausüben von 2 Jobs parallel möglich und mit dem Legende Rang erhöht sich dies auf 3. Ein Wechseln zwischen den Jobs ist immer möglich, indem man einen Job verlässt und einen anderen Beitritt - der Fortschritt bleibt dabei erhalten.
 
 
 ## **📋 Verfügbare Jobs & Rangvoraussetzungen**
@@ -58,8 +54,3 @@ Einige Jobs werden mit steigendem Rang freigeschaltet:
 - Jobs bringen **mehr Coins**, je mehr weiter du diese levelst. Aktives Spielen lohnt sich also.
 - Nutze **Booster**, um deine Job-Einnahmen zeitweise zu erhöhen
 - In der Lobby gib es einen NPC der als Alternative zu den Befehlen fungiert.
-
-
-## **📈 Lohnt sich das?**
-
-Ja! Jobs sind die **verlässlichste Einkommensquelle** auf dem Server – mit ihrer Hilfe kannst du immer Geld verdienen. Je mehr Zeit du investierst, desto mehr Coins bekommst du.
